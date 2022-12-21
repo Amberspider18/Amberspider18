@@ -1,7 +1,9 @@
-- 👋 Hi, I’m @Amberspider18
+- 👋 Hi, I’m @tusharkadam18
 - 👀 I’m interested in Advanced Computing
-- 🌱 I’m currently learning Java Language
+- 🌱 I’m have learnt java, MySql, litte bit of Mongodb and also i ahve completed the data stucture and algorith module
+- 🌱 Now I am learning tha webBased Programming techniques ehich includes the html, css, javascript and manay more techniques. 
 - 💞️ I’m looking to collaborate on anything with java and learning git and github
+- I will try to add ifo about my ongoing course time to time when i get the time to vsit this page.
 
 <!---
 Amberspider18/Amberspider18 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
